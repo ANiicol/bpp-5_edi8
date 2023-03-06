@@ -1,0 +1,3 @@
+site_name: Mi sitio de documentación
+theme: readthedocs
+docs_dir: docs
